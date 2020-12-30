@@ -7,7 +7,7 @@ public class main {
 		
 int x=5;
 		
-		int z=x*x*x*x;
+		int z=x*x*x*x*x;
 		
 		System.out.println("Value of after square: " +z);
 		
